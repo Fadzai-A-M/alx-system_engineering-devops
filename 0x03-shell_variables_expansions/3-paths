@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $PATH | tr ':' '/n' | xargs fine -type d | wc -l
