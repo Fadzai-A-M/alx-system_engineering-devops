@@ -18,4 +18,4 @@ Display lines containing the pattern “root” from the file /etc/passwd
 Display the number of lines that contain the pattern “bin” in the file /etc/passwdDisplay lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 Write a script that displays all users and their home directories, sorted by usersi.
 Write a script that reverse its input.
-Create a script that removes all letters c and C from input.
+Create a script that removes all letters c and C from inpUT
